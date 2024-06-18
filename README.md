@@ -22,10 +22,11 @@ if lives are over.
 ## Installation
 
 C++ standard version - С++20
+
 CMake minimum required version - 3.22
 
 ```
-git clone git@gitlab.akhcheck.ru:ekaterina.repina/tp-2024-project-repina-ekaterina.git pacman
+git clone git@github.com:ekrepina/pacman.git pacman
 cd pacman
 mkdir build
 cd build
